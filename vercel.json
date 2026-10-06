@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/o/:file", "destination": "/api/o?file=:file" }]
+}
